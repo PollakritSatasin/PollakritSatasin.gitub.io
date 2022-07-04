@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+
+<channel>
+  <title>Rama Podcast</title>
+  <itunes:owner>
+        <itunes:email>RamaPodcastOfficial@gmail.com</itunes:email>
+  </itunes:owner>
+  <itunes:author>Rama Podcast</itunes:author>
+  <link>https://PollakritSatasin.github.io</link>
+  <description>Podcast by the medical students of Ramathibodi</description>
+  
+  <item>
+    <title>RSS Tutorial</title>
+    <link>https://www.w3schools.com/xml/xml_rss.asp</link>
+    <description>New RSS tutorial on W3Schools</description>
+  </item>
+  
+</channel>
+
+</rss>
